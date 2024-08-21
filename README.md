@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-<code> <a href="#-project-abstract">Project Abstract</a>&nbsp;&nbsp;&nbsp; <a href="#-deliverables">Deliverables</a>&nbsp;&nbsp;&nbsp; <a href="#-demo">Demo</a>&nbsp;&nbsp;&nbsp; <a href="#-contributions">Contributions</a>&nbsp;&nbsp;&nbsp; <a href="#-mentors">Mentors</a>
+<code> <a href="#-project-abstract">Project Abstract</a>&nbsp;&nbsp;&nbsp; <a href="#-deliverables">Deliverables</a>&nbsp;&nbsp;&nbsp; <a href="#-product-demo">Product Demo</a>&nbsp;&nbsp;&nbsp; <a href="#-contributions">Contributions</a>&nbsp;&nbsp;&nbsp; <a href="#-mentors">Mentors</a>
 </code>
 </p>
 
@@ -36,7 +36,7 @@ The following are the deliverables of this project:
 - If selected file size is more than the admin's prescribed so it will show the Toast Message.
 - Updated the UI of the files to be shared.
 
-## 📺 Product Demo:-
+## 📺 Product Demo
 
 - Video Sharing :-
 
@@ -56,7 +56,9 @@ The following are the deliverables of this project:
 
   - After <img src="./assest/After_PDF.png" alt="PDF after" />
 
-- Adding and Removing of files :- -
+- Drive link for the complete Functionality :- <a href="https://drive.google.com/file/d/15UiRbLz8BI2bXYLjr76oeYLojxJVA3A3/view?usp=sharing" target="_blank"> Click here </a>
+
+- Adding and Removing of files :- 
 
 https://github.com/user-attachments/assets/4dd63f0b-f2fe-4612-8402-3c6bb74baeab
 
